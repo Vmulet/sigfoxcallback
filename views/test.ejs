@@ -40,7 +40,7 @@
       var locations = [];
       var radius =[];
       var j=0;
-      var limit=100;
+      var limit=20;
       var markers=[];
       //<!--Get "limit" position and radius contains in the database.-->
       <%entries.forEach(function(entry){%>
@@ -88,7 +88,8 @@
       function event(){
       return google.maps.event.addListener(marker,'click',function(){var m=marker;var tmp=i; return function(){highlight(m, radius, tmp);};}());
       };event();
-      }		  
+      }
+			   
       var markerCluster = new MarkerClusterer(map, markers,
       {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
       }

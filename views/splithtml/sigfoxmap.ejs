@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Localisation of your device</title>
+    <style>
+      #map {
+      height: 800px;
+      }
+      html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>Localisation of your device</h3>
+    <div id="map"></div>
+    <script>
+      
+      function initMap() {
+      var locations = [];
+      
+      <%entries.forEach(function(entry){%>
+      locations.push({lat: <%=entry.payload.lat%>, lng: <%=entry.payload.lng%>});
+      <%})%>
+      
+      var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 5,
+      center: locations[0]
+      });
+      
+      var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+      
+      var markers = locations.map(function(location, i) {
+      return new google.maps.Marker({
+      position: location,
+      label: labels[i % labels.length]
+      });
+      });
+      
+      var markerCluster = new MarkerClusterer(map, markers,
+      {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+      }
+    </script>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
+    </script>
+    <script async defer
+	    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDzxJmeC71h0yQFC-0Vh1GgJPuEerkoOMg&callback=initMap">
+    </script>
+    <input type="button" value="Click here to see database" onclick="location.href='/'">
+  </body>
+</html>

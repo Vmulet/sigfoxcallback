@@ -1,3 +1,4 @@
+
 'use strict';
 /**
 * Load local config to env
@@ -25,7 +26,7 @@ const http = require('http');
 const path = require('path');
 /* init */
 const app = express();
-const port = process.env.PORT || 34000;
+const port = process.env.PORT || 8080;
 const server = http.createServer(app);
 const db = require('./modules/db');
 const requestLogger = require('./middlewares/requestLogger');
@@ -74,6 +75,30 @@ app.get('/', function(req, res){
   });
 });
 
+app.get('/test', function(req,res){
+    db.find('calls',{path:'/sigfox',payload:{$exists:true}},{sort:{time:-1}})
+	.then(function(data){
+	    res.format({
+		html:function(){
+		    res.render('test',{title:'SIGFOX messages', entries:data});
+		},
+		default:function(){
+		    res.status(406).send({err:'Invalid Accept header. This method only handles html'});
+		}
+	    });
+	})
+	.catch(function(err){
+	    res.format({
+		html: function(){
+		    return res.status(500).render('error', {title:'An error occured while fetching messages', err:err});
+		},
+		default: function(){
+		    res.status(406).send({err:'Invalid Accept header. This method only handles html'});
+		}
+	    });
+	});
+    
+});
 
 app.post('/sigfox', requestLogger, function(req, res){
   debug('~~ POST request ~~');

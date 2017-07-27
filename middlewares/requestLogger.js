@@ -24,8 +24,8 @@ module.exports = function(req, res, next){
     
   }
   
-  db.insert('calls', entry)
-  .then(function(obj){
+    db.insert('calls', entry)
+    .then(function(obj){
     debug('Request log OK');
     debug(obj);
     next();

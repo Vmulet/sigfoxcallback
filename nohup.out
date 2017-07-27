@@ -1,0 +1,687 @@
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+ReferenceError: /home/ubuntu/sigfoxcallback/views/test.ejs:26
+    24|     <meta name="viewport" content="width=device-width, initial-scale=1">
+    25|     <input type="button" value="Click here to refresh" onclick="location.href='/'">
+ >> 26|     <title><%= title %></title>
+    27|     <!-- Bootstrap core CSS -->
+    28|     <link href="/css/bootstrap.min.css" rel="stylesheet">
+    29|   </head>
+
+title is not defined
+    at eval (eval at <anonymous> (/home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:455:12), <anonymous>:11:28)
+    at /home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:482:14
+    at View.exports.renderFile [as engine] (/home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:348:31)
+    at View.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/view.js:93:8)
+    at EventEmitter.app.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/application.js:566:10)
+    at ServerResponse.res.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/response.js:938:7)
+    at Object.res.format.html (/home/ubuntu/sigfoxcallback/server.js:83:11)
+    at ServerResponse.res.format (/home/ubuntu/sigfoxcallback/node_modules/express/lib/response.js:613:13)
+    at /home/ubuntu/sigfoxcallback/server.js:81:10
+    at process._tickCallback (node.js:385:9)
+ReferenceError: /home/ubuntu/sigfoxcallback/views/test.ejs:26
+    24|     <meta name="viewport" content="width=device-width, initial-scale=1">
+    25|     <input type="button" value="Click here to refresh" onclick="location.href='/'">
+ >> 26|     <title><%= title %></title>
+    27|     <!-- Bootstrap core CSS -->
+    28|     <link href="/css/bootstrap.min.css" rel="stylesheet">
+    29|   </head>
+
+title is not defined
+    at eval (eval at <anonymous> (/home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:455:12), <anonymous>:11:28)
+    at /home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:482:14
+    at View.exports.renderFile [as engine] (/home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:348:31)
+    at View.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/view.js:93:8)
+    at EventEmitter.app.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/application.js:566:10)
+    at ServerResponse.res.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/response.js:938:7)
+    at Object.res.format.html (/home/ubuntu/sigfoxcallback/server.js:83:11)
+    at ServerResponse.res.format (/home/ubuntu/sigfoxcallback/node_modules/express/lib/response.js:613:13)
+    at /home/ubuntu/sigfoxcallback/server.js:81:10
+    at process._tickCallback (node.js:385:9)
+ReferenceError: /home/ubuntu/sigfoxcallback/views/test.ejs:26
+    24|     <meta name="viewport" content="width=device-width, initial-scale=1">
+    25|     <input type="button" value="Click here to refresh" onclick="location.href='/'">
+ >> 26|     <title><%= title %></title>
+    27|     <!-- Bootstrap core CSS -->
+    28|     <link href="/css/bootstrap.min.css" rel="stylesheet">
+    29|   </head>
+
+title is not defined
+    at eval (eval at <anonymous> (/home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:455:12), <anonymous>:11:28)
+    at /home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:482:14
+    at View.exports.renderFile [as engine] (/home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:348:31)
+    at View.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/view.js:93:8)
+    at EventEmitter.app.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/application.js:566:10)
+    at ServerResponse.res.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/response.js:938:7)
+    at Object.res.format.html (/home/ubuntu/sigfoxcallback/server.js:83:11)
+    at ServerResponse.res.format (/home/ubuntu/sigfoxcallback/node_modules/express/lib/response.js:613:13)
+    at /home/ubuntu/sigfoxcallback/server.js:81:10
+    at process._tickCallback (node.js:385:9)
+ReferenceError: /home/ubuntu/sigfoxcallback/views/test.ejs:94
+    92|       <div class="row">
+    93| 	<!--<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">-->
+ >> 94| 	<h1 class="page-header"><%=title%></h1>
+    95| 	<h2><%=entries.length%> messages</h2>
+    96| 	<div class="table-responsive">
+    97| 	  <table class="table table-striped">
+
+title is not defined
+    at eval (eval at <anonymous> (/home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:455:12), <anonymous>:25:28)
+    at /home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:482:14
+    at View.exports.renderFile [as engine] (/home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:348:31)
+    at View.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/view.js:93:8)
+    at EventEmitter.app.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/application.js:566:10)
+    at ServerResponse.res.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/response.js:938:7)
+    at Object.res.format.html (/home/ubuntu/sigfoxcallback/server.js:83:11)
+    at ServerResponse.res.format (/home/ubuntu/sigfoxcallback/node_modules/express/lib/response.js:613:13)
+    at /home/ubuntu/sigfoxcallback/server.js:81:10
+    at process._tickCallback (node.js:385:9)
+ReferenceError: /home/ubuntu/sigfoxcallback/views/test.ejs:94
+    92|       <div class="row">
+    93| 	<!--<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">-->
+ >> 94| 	<h1 class="page-header"><%=title%></h1>
+    95| 	<h2><%=entries.length%> messages</h2>
+    96| 	<div class="table-responsive">
+    97| 	  <table class="table table-striped">
+
+title is not defined
+    at eval (eval at <anonymous> (/home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:455:12), <anonymous>:25:28)
+    at /home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:482:14
+    at View.exports.renderFile [as engine] (/home/ubuntu/sigfoxcallback/node_modules/ejs/lib/ejs.js:348:31)
+    at View.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/view.js:93:8)
+    at EventEmitter.app.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/application.js:566:10)
+    at ServerResponse.res.render (/home/ubuntu/sigfoxcallback/node_modules/express/lib/response.js:938:7)
+    at Object.res.format.html (/home/ubuntu/sigfoxcallback/server.js:83:11)
+    at ServerResponse.res.format (/home/ubuntu/sigfoxcallback/node_modules/express/lib/response.js:613:13)
+    at /home/ubuntu/sigfoxcallback/server.js:81:10
+    at process._tickCallback (node.js:385:9)
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Terminated
+
+npm ERR! Linux 4.4.0-81-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.7.2
+npm ERR! npm  v2.15.11
+npm ERR! code ELIFECYCLE
+npm ERR! sigfox-callback-demo@1.0.0 start: `node server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the sigfox-callback-demo@1.0.0 start script 'node server.js'.
+npm ERR! This is most likely a problem with the sigfox-callback-demo package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs sigfox-callback-demo
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls sigfox-callback-demo
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/sigfoxcallback/npm-debug.log
+
+> sigfox-callback-demo@1.0.0 start /home/ubuntu/sigfoxcallback
+> node server.js
+
+No local config found
+{ [Error: Cannot find module './config.local.js'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
